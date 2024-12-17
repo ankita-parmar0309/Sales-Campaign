@@ -84,6 +84,7 @@ src/
 │   ├── CampaignRepository.java
 │   ├── PriceHistoryRepository.java
 │   └── ProductRepository.java
+|   └── CampaignDiscountRepositoty.java
 ├── service/
 │   ├── CampaignService.java
 │   └── ProductService.java
